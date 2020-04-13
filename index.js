@@ -46,7 +46,7 @@ $(".btn button").click(function(){
 		else{
 			$(".final").css("opacity","1");
 			$(".btn").css("pointer-events","none");
-			alert("You have only three chances.See the winner at the top");
+			alert("You have only three chances.See the winner at the top.To play again CLICK RESTART at the BOTTOM");
 		}
 	});
 

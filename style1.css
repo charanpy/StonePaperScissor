@@ -58,6 +58,7 @@ header h1 span{
 	align-items: center;
 	text-align: center;
 	opacity: 0;
+	pointer-events:none;
 }
 .btn button{
 	margin: 20px 5px;

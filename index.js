@@ -7,6 +7,7 @@ var count=0;
 $(".play-btn a").on("click",function(){
 
 	$(".btn").css("opacity","1");
+	$(".btn").css("pointer-events","all");
 	$(".main").css("opacity","1");
 	$(".play-btn a").css("opacity","0");
 	$(".opt").css("opacity","1");
